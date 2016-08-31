@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace App\Zoular;
 
 use Illuminate\Support\ServiceProvider;
 use App\Zoular\iHello;
