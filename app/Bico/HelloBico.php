@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Zoular;
+namespace App\Bico;
 
-use App\Zoular\iHello;
+use App\Contract\iHello;
 
 class HelloBico implements iHello
 {

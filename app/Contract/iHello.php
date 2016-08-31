@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Zoular;
+namespace App\Contract;
 
 interface iHello
 {

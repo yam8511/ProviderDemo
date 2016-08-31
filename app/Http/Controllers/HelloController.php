@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-use App\Zoular\iHello;
+use App\Contract\iHello;
 
 class HelloController extends Controller
 {

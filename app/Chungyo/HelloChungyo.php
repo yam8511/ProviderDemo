@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Zoular;
+namespace App\Chungyo;
 
-use App\Zoular\iHello;
+use App\Contract\iHello;
 
 class HelloChungyo implements iHello
 {
